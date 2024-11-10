@@ -38,7 +38,7 @@ global.baileys = 'V 6.7.8'
 global.vs = '1.0.1'
 global.languaje = 'Español'
 global.nameqr = 'Akari Bot - MD'
-global.namebot = 'mᥲsһᥲ kᥙȷ᥆ᥙ - MD'
+global.namebot = 'Masha Kujou - MD'
 global.sessions = 'AkariSession'
 global.jadi = 'AkariJadiBot'
 
