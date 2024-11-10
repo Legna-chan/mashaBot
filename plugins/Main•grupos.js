@@ -5,7 +5,7 @@ let handler  = async (m, { conn, usedPrefix, command }) => {
 
 let grupos = `*Hola!, te invito a unirte a los grupos oficiales del Bot para convivir con la comunidad* 🍂
 
-1- Aƙαɾι WαƚαɳαႦҽ 🌸
+1- 𝑴𝑨𝑺𝑯𝑨 𝑲𝑼𝑱𝑶𝑼 𝑶𝑭𝑰𝑪𝑰𝑨𝑳🧸💫
 *✰* ${grupo}
 
 *─ׄ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׄ*
