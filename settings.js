@@ -47,7 +47,7 @@ global.packname = '⪛✰ 𝑴𝒂𝒔𝒉𝒂 𝑩𝒐𝒕 - 𝑴𝑫 ✰⪜'
 global.botname = 'ᴍᴀsʜᴀ ʙᴏᴛ - ᴍᴅ 🚩'
 global.wm = '✨◌*̥₊ 𝗠𝗮𝘀𝗵𝗮𝗕𝗼𝘁-𝗠𝗗 ◌❐⚡༉' 
 global.author = '𝙻𝙴𝙶𝙽𝙰 🌟'
-global.dev = '© Powered By LegnaOfc ⚡''
+global.dev = '© Powered By LegnaOfc ⚡'
 global.textbot = '𝗠𝗮𝘀𝗵𝗮 𝗕𝗼𝘁 : 𝗟𝗲𝗴𝗻𝗮𝗢𝗳𝗰 🌷'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
