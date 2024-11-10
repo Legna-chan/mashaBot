@@ -44,20 +44,19 @@ let totalreg = Object.keys(global.db.data.users).length
   let old = performance.now()
   let neww = performance.now()
   let speed = neww - old
-  let infobt = ` *I N F O - A K A R I*
+  let infobt = ` *I N F O - M A S H A*
   
 *_ESTADO_*
-🌸ꕥ Chats de grupo: *${groupsIn.length}*
-🌺ꕥ Grupos unidos: *${groupsIn.length}*
-🌸ꕥ Grupos abandonados: *${groupsIn.length - groupsIn.length}*
-🌺ꕥ Chats privados: *${chats.length - groupsIn.length}*
-🌸ꕥ Total Chats: *${chats.length}*
-🌺ꕥ Registrados: *${totalreg}*
-🌸ꕥ Tiempo Activo: *${uptime}*
+🧡ꕥ Chats de grupo: *${groupsIn.length}*
+💫ꕥ Grupos unidos: *${groupsIn.length}*
+🧡ꕥ Grupos abandonados: *${groupsIn.length - groupsIn.length}*
+💫ꕥ Chats privados: *${chats.length - groupsIn.length}*
+🧡ꕥ Total Chats: *${chats.length}*
+💫ꕥ Registrados: *${totalreg}*
+💛ꕥ Tiempo Activo: *${uptime}*
 
 
-
-🌸 *NodeJS Uso de memoria*
+🧡 *NodeJS Uso de memoria*
 ${'```' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + '```'}
 `
 const prep = generateWAMessageFromContent(m.chat, { "orderMessage": { "orderId":"6288215463787", "itemCount": 2022, "message": infobt, "orderTitle": packname, "footerText": "Akari Bot - MD", "token": "AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA==", "thumbnail": imagen1, "surface": "CATALOG" } }, { quoted: fkontak })
