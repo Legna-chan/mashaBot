@@ -39,7 +39,7 @@ global.languaje = 'Español'
 global.nameqr = 'Masha Bot - MD'
 global.namebot = 'Masha Kujou - MD'
 global.sessions = 'MashaSession'
-global.jadi = 'MashaJadiBot'
+global.jadi = 'AkariJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
