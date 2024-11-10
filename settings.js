@@ -43,12 +43,12 @@ global.jadi = 'AkariJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = 'MᥲsһᥲB᥆𝗍 - MD'
-global.botname = 'MᥲsһᥲB᥆𝗍 - MD 🧡'
-global.wm = 'mᥲsһᥲᑲ᥆𝗍-MD 🧡'
-global.author = 'ᑲᥡ LᥱgᥒᥲO𝖿ᥴ'
-global.dev = '© P᥆ᥕᥱr ᑲᥡ LᥱgᥒᥲO𝖿ᥴ'
-global.textbot = 'Mᥲsһᥲ : LᥱgᥒᥲO𝖿ᥴ 🧡'
+global.packname = '⪛✰ 𝑴𝒂𝒔𝒉𝒂 𝑩𝒐𝒕 - 𝑴𝑫 ✰⪜'
+global.botname = 'ᴍᴀsʜᴀ ʙᴏᴛ - ᴍᴅ 🚩'
+global.wm = '✨◌*̥₊ 𝗠𝗮𝘀𝗵𝗮𝗕𝗼𝘁-𝗠𝗗 ◌❐⚡༉' 
+global.author = '𝙻𝙴𝙶𝙽𝙰 🌟'
+global.dev = '© Powered By LegnaOfc ⚡''
+global.textbot = '𝗠𝗮𝘀𝗵𝗮 𝗕𝗼𝘁 : 𝗟𝗲𝗴𝗻𝗮𝗢𝗳𝗰 🚩'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -63,14 +63,14 @@ global.avatar = fs.readFileSync('./src/img/avatar_contact.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/KiJY7gZS17aLcP6qaGatFX'
-global.grupo2 = 'https://chat.whatsapp.com/JJGQs5aCsTsAsHbw752fBv'
-global.grupo3 = 'https://chat.whatsapp.com/G2bAsa8E11mLLitGxI0iUQ'
+global.grupo = 'https://chat.whatsapp.com/Bly67pJSFDS3rAotCdT6qu'
+global.grupo2 = 'https://chat.whatsapp.com/HZjoLoDB5XR3tRWJVN9qJS'
+global.grupo3 = 'https://chat.whatsapp.com/JjlELIq9ou50l5antfbTHd'
 global.channel = 'https://whatsapp.com/channel/0029VajkZ6bIXnlwPZmbuH1u'
-global.md = 'https://github.com/ianalejandrook15x/AkariBot-MD' 
-global.yt = 'https://www.youtube.com/@ianalejandrook14x'
-global.tiktok = 'https://tiktok.com/@ian.ian271'
-global.correo = 'alejandroxddd92@gmail.com'
+global.md = 'https://github.com/Legna-chan/mashaBot.git' 
+global.yt = 'https://youtube.com/@alya_roshidere827?si=G9xmu-sl5Zam5hhO'
+global.tiktok = 'tiktok.com/@legna_edits54'
+global.correo = 'legnakujou@gmail.com'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
