@@ -49,7 +49,7 @@ const defaultMenu = {
 
 \t*L I S T A  -  D E  -  C O M A N D O S* 
 `.trimStart(),
-    header: '✨🎄 %category 🎄✨ \n',
+    header: ' 🤓%category🤓 \n',
   body: '𓍢ִ໋🧡͙֒ %cmd',
   footer: '',
   after: `> ${dev}`,
