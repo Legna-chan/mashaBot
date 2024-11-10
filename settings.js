@@ -18,7 +18,6 @@ global.confirmCode = ''
 
 global.owner = [
    ['526671548329', 'Propietario 👑', true],
-   ['5493876639332', 'Creador 🌸', true],
    ['526677510398', 'BOTT', true],
    ['50379663665', 'BOTTT', true],
    ['573012482597']
@@ -37,19 +36,19 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.vs = '1.0.1'
 global.languaje = 'Español'
-global.nameqr = 'Akari Bot - MD'
+global.nameqr = 'Masha Bot - MD'
 global.namebot = 'Masha Kujou - MD'
-global.sessions = 'AkariSession'
-global.jadi = 'AkariJadiBot'
+global.sessions = 'MashaSession'
+global.jadi = 'MashaJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = 'mᥲsһᥲᑲ᥆𝗍 - MD'
-global.botname = 'mᥲsһᥲᑲ᥆𝗍 - MD 🦋'
-global.wm = 'mᥲsһᥲᑲ᥆𝗍-MD 🦋'
-global.author = 'ᑲᥡ ᥣᥱgᥒᥲ᥆𝖿ᥴ'
-global.dev = '⍴᥆ᥕᥱr ᑲᥡ ᥣᥱgᥒᥲ✨'
-global.textbot = 'mᥲsһᥲ : ᥣᥱgᥒᥲ᥆𝖿ᥴ 🧡'
+global.packname = 'MᥲsһᥲB᥆𝗍 - MD'
+global.botname = 'MᥲsһᥲB᥆𝗍 - MD 🧡'
+global.wm = 'mᥲsһᥲᑲ᥆𝗍-MD 🧡'
+global.author = 'ᑲᥡ LᥱgᥒᥲO𝖿ᥴ'
+global.dev = '© ⍴᥆ᥕᥱr ᑲᥡ LᥱgᥒᥲO𝖿ᥴ'
+global.textbot = 'Mᥲsһᥲ : LᥱgᥒᥲO𝖿ᥴ 🧡'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
